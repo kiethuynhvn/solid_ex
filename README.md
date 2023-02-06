@@ -1,0 +1,2 @@
+# solidex
+SOLID example
